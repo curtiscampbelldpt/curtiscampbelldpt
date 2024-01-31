@@ -26,7 +26,7 @@ Hi there 👋 I'm Curtis, a passionate healthcare data analyst who transitioned 
 
 - ✨ [**Tableau**](https://public.tableau.com/app/profile/curtis.campbell/vizzes)
 
-- 🐱 [**GitHub Repositories**](https://github.com/curtiscampbellDPT)
+- 🐱 [**GitHub Repositories**](https://github.com/curtiscampbelldpt?tab=repositories)
   
 #### 🌍 **Contact Information**
 
