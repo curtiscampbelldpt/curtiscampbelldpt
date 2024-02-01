@@ -1,6 +1,6 @@
 #### 👨‍💼 About Me
 
-Hi there 👋 I'm Curtis, a passionate healthcare data analyst who transitioned from clinical care to the dynamic world of data. With nearly a decade of experience in the healthcare domain, I bring a unique blend of clinical expertise and technical skills to the table.
+Hi there 👋 I'm Curtis, a passionate healthcare data analyst who transitioned from clinical care to the dynamic world of data. With nearly a decade of experience in the healthcare domain, I bring a unique blend of heatlhcare domain expertise and technical skills to the table.
 
 #### 🌟 Key Skills
 
