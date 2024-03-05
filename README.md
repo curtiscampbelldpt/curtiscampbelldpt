@@ -14,9 +14,9 @@ Hi there 👋 I'm Curtis, a passionate healthcare data analyst who transitioned 
 
 - [**Springboard Data Analytics Bootcamp Graduate**](https://www.credential.net/682f1423-5e8e-49e8-b694-9a50e925591c#gs.0nqyqc)
 
-- [**Meta Database Engineer Professional Certificate**]([https://www.coursera.org/learn/database-structures-and-management-with-mysql/home/week/3](https://www.coursera.org/account/accomplishments/specialization/certificate/9CE7WFRN7WEQ))
+- [**Meta Database Engineer Professional Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/9CE7WFRN7WEQ)
 
-- [**Artificial Intelligence in Healthcare Specialization with Stanford University**](https://www.coursera.org/account/accomplishments/specialization/4SWL6TUXNTPJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+- [**Artificial Intelligence in Healthcare Specialization with Stanford University**](https://www.coursera.org/account/accomplishments/specialization/4SWL6TUXNTPJ?\utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
 
 - Doctorate in Physical Therapy from the University of Florida
 
